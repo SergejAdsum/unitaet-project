@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sergejadsum.github.io/unitaet-project/sitemap.xml
